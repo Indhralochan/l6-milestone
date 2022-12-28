@@ -1,8 +1,0 @@
-body {
-    color: black;
-    background-color: aliceblue;
-    font-family: "sanserif", Times, serif;
-  }
-  .todo-item:hover .delete-icon {
-    display: block;
-  }
